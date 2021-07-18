@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/67611246/122594147-03301f80-d03d-11eb-8609-c86ea6994a26.png)
 
 # Kevin Aguilera
-Recientemente comencé a sentirme fascinado por la programación y construcción de sitios web, estoy muy motivado y entusiasmado para poder ser un excelente desarrollador Front-end. 
+Recientemente comencé a sentirme fascinado por el desarrollo y construcción de sitios web, estoy muy motivado y entusiasmado para poder ser un excelente desarrollador Front-end. 
 
 ## Skills: 
 * :computer: HTML / CSS / JS
