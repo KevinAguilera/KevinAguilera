@@ -1,7 +1,9 @@
-![banner](https://user-images.githubusercontent.com/67611246/122594147-03301f80-d03d-11eb-8609-c86ea6994a26.png)
+![banner](https://i.postimg.cc/J7P3FrCZ/ss.png)
 
 # Kevin Aguilera
-Recientemente comencé a sentirme fascinado por el desarrollo y construcción de sitios web, estoy muy motivado y entusiasmado para poder ser un excelente desarrollador Front-end. 
+Soy una persona entusiasta, altamente motivada, confiable y responsable. Disfruto ser parte de un equipo productivo y estoy ansioso por ganar más
+experiencia cada día en el mundo IT. 
+
 
 ## Skills: 
 * :computer: HTML / CSS / JS / Angular / Firebase
