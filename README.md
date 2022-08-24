@@ -1,4 +1,4 @@
-![banner](https://postimg.cc/4nHh7Tdx)
+![banner](https://i.postimg.cc/J7P3FrCZ/ss.png)
 
 # Kevin Aguilera
 Soy una persona entusiasta, altamente motivada, confiable y responsable. Disfruto ser parte de un equipo productivo y estoy ansioso por ganar más
